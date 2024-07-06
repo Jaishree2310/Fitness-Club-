@@ -1,4 +1,4 @@
-## FitClub Landing Page  [View](https://fitness-club-jaishree.netlify.app/)
+## FitClub Landing Page  [Live](https://fitness-club-jaishree.netlify.app/)
 ` FitClub is a straightforward and visually appealing landing page specifically crafted for gyms and fitness centers. It offers a pristine and efficient online representation, aiming to allure prospective clientele and exhibit the comprehensive range of amenities and services provided by the gym. `
 
 ### Features
