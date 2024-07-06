@@ -1,11 +1,6 @@
 ## FitClub Landing Page  
 ` FitClub is a straightforward and visually appealing landing page specifically crafted for gyms and fitness centers. It offers a pristine and efficient online representation, aiming to allure prospective clientele and exhibit the comprehensive range of amenities and services provided by the gym. `
 
-
-<img src="src/assets/docs.png" alt="image" width="auto" height="auto">
-
-[Image of FitClub landing page]
-
 ### Features
 
 * **Modern and responsive design:** FitClub features a modern and responsive design that looks great on any device.
